@@ -39,7 +39,6 @@ import {
   BookmarkBorder as BookmarkBorderIcon,
   LightbulbOutlined as LightbulbOutlinedIcon,
   Star as StarIcon,
-  People as PeopleIcon,
 } from '@mui/icons-material';
 import { useNavigate, useLocation } from 'react-router-dom';
 import { useAuth } from '../contexts/AuthContext';
